@@ -1,3 +1,6 @@
+custom:
+  message: This Msg is from GitHub MicroservicesConfig
+  
 eureka:
   instance:
     prefer-ip-address: true
